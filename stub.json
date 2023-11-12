@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a simple page that has access to chatgpt and can carry a conversation with it","md5":"e80fd69eb689284e3d5e6580c65e7213"}]}
